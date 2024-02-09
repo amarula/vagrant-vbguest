@@ -1,7 +1,5 @@
 # vagrant-vbguest
 
-## The only change here is a fix for Ruby 3.2.2
-
 ---
 
 *vagrant-vbguest* is a [Vagrant](http://vagrantup.com) plugin which automatically installs the host's VirtualBox Guest Additions on the guest system.

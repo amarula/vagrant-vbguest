@@ -3,10 +3,10 @@ Gem::Specification.new do |s|
   s.name        = "vagrant-vbguest"
   s.version     = File.read('VERSION').chop
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Robert Schulze"]
-  s.email       = ["robert@dotless.de"]
+  s.authors     = ["Michael Trimarchi"]
+  s.email       = ["michael@amarulasolutions.com"]
   s.license     = 'MIT'
-  s.homepage    = "https://github.com/dotless-de/vagrant-vbguest"
+  s.homepage    = "https://github.com/amarula/vagrant-vbguest"
   s.summary     = %q{A Vagrant plugin to install the VirtualBoxAdditions into the guest VM}
   s.description = %q{A Vagrant plugin which automatically installs the host's VirtualBox Guest Additions on the guest system.}
 
@@ -25,9 +25,8 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.metadata = {
-    "bug_tracker_uri" => "https://github.com/dotless-de/vagrant-vbguest/issues",
-    "changelog_uri" => "https://github.com/dotless-de/vagrant-vbguest/blob/main/CHANGELOG.md",
-    "documentation_uri" => "http://rubydoc.info/gems/vagrant-vbguest",
-    "source_code_uri" => "https://github.com/dotless-de/vagrant-vbguest"
+    "bug_tracker_uri" => "https://github.com/amarula/vagrant-vbguest/issues",
+    "changelog_uri" => "https://github.com/amarula/vagrant-vbguest/blob/main/CHANGELOG.md",
+    "source_code_uri" => "https://github.com/amarula/vagrant-vbguest"
   }
 end

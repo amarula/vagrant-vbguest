@@ -1,7 +1,6 @@
 # vagrant-vbguest
 
-**Please note that as of 2023-12-17, this project is archived and will not receive further updates or support from me.**  
-**However, the existing codebase will remain available for reference and use under the project's open-source license.**
+## The only change here is a fix for Ruby 3.2.2
 
 ---
 

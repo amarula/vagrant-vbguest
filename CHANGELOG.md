@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.32.1 (2024-02-9)
+
+## The only change here is a fix for Ruby 3.2.2
+
 ## 0.32.0 (2023-12-17)
 
 - Fix testing for running GuestAdditions on Linux, when reading `/proc/modules` returns in
